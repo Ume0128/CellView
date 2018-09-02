@@ -1,7 +1,9 @@
 
 
 # LIBRARY -----------------------------------------------------------------
+install.packages('shinyFiles')
 
+library(shinyFiles)
 library(shiny)
 library(plotly)
 library(shinythemes)
