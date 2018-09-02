@@ -39,7 +39,7 @@ shinyUI(
       br(),
       fluidRow(div(
         h5(
-          'This app is designed for exploratory data analysis of
+          'Ume This app is designed for exploratory data analysis of
           processed RNA-Seq data of single cell experiments.'
         ),
         align = 'center'
